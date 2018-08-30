@@ -1,3 +1,4 @@
+// Codigo
 public class Clock {
     public int seg;
     public int min; //atributos
